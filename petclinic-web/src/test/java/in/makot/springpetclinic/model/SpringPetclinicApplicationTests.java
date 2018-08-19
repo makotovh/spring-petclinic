@@ -1,4 +1,4 @@
-package in.makot.springpetclinic;
+package in.makot.springpetclinic.model;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
